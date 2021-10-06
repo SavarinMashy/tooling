@@ -25,13 +25,14 @@ terminal shell - ~~`BASH`~~ `ZSH`
 
 browser testing - similar layout engine chromium(brave chrome firefox opera)
 
-collaboratoin - google colab, google office suite (mostly google docs) overleaf
+collaboration - google colab, google office suite (mostly google docs) overleaf
+
 
 
 ---
 
 Retired Deprecated Not-Supported Replaced
-~~`Tex Shop`~~ ~~`Roam Research`~~ ~~`jGRASP`~~
+~~`Tex Shop`~~ ~~`Roam Research`~~ ~~`jGRASP`~~ ~~`Sketch`~~
 
 ---
 
@@ -40,3 +41,5 @@ Yet to try
 `Vim`
 `Arch Linux`
 `PyCharm` (other jetbrains products)
+`Unity`
+`Fusion 360`
