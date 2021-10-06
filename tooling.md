@@ -1,3 +1,6 @@
+#### Active tooling
+
+Applications:
 `Visual Studio Code`
 `GitHub Desktop`
 `Git Kraken`
@@ -20,8 +23,16 @@
 `Anaconda`
 `SPYDER`
 `Jupyter Notebook`
+`Vim`
+`tmux`
 
-terminal shell - ~~`BASH`~~ `ZSH`
+Utilities:
+`GnuPG`
+
+Version Control:
+`Git`
+
+terminal shell - `ZSH`
 
 browser testing - similar layout engine chromium(brave chrome firefox opera)
 
@@ -31,15 +42,18 @@ collaboration - google colab, google office suite (mostly google docs) overleaf
 
 ---
 
-Retired Deprecated Not-Supported Replaced
-~~`Tex Shop`~~ ~~`Roam Research`~~ ~~`jGRASP`~~ ~~`Sketch`~~
+Retired, replaced, deprecated, not-supported: 
+~~`Tex Shop`~~ ~~`Roam Research`~~ ~~`jGRASP`~~ ~~`Sketch`~~ ~~`BASH`~~
 
 ---
 
-Yet to try
+Yet to try:
 `Logseq`
-`Vim`
 `Arch Linux`
 `PyCharm` (other jetbrains products)
 `Unity`
 `Fusion 360`
+`Neovim`
+`SpaceVim`
+
+
